@@ -1,2 +1,2 @@
 # ProjectLuca
-Project for creating a screener to use in various algorithmic trading strategies
+Attempt to create a stock screener for use in various algorithmic trading strategies
